@@ -123,12 +123,7 @@ Missing values appear in director (~30%), cast (~9%), country (~6%), and smaller
 
 ---
 
-## Optional: GitHub Link
-
-If you publish this project on GitHub, add your repository link in the **GitHub Link** section in both notebooks (and optionally here).
-
----
-
 ## License
 
 This project is for educational/portfolio use. The Netflix dataset is from a public source; check the dataset license for redistribution and usage terms.
+
