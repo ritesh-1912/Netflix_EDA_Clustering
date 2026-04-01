@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows – EDA & Clustering (ML)
+# Netflix Movies and TV Shows – EDA & Clustering (Machine Learning Project)
 
 Exploratory data analysis and unsupervised clustering of Netflix's catalog for content segmentation, **"More like this"** recommendations, and strategy insights.
 
@@ -126,4 +126,3 @@ Missing values appear in director (~30%), cast (~9%), country (~6%), and smaller
 ## License
 
 This project is for educational/portfolio use. The Netflix dataset is from a public source; check the dataset license for redistribution and usage terms.
-
