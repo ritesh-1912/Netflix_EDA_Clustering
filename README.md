@@ -1,6 +1,5 @@
 # Netflix Movies and TV Shows – EDA & Clustering (Machine Learning Project)
 
-
 Exploratory data analysis and unsupervised clustering of Netflix's catalog for content segmentation, **"More like this"** recommendations, and strategy insights.
 
 **Project Type:** EDA + Unsupervised Learning (Clustering)  
